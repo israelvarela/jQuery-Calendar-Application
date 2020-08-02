@@ -6,4 +6,4 @@ Linkd of deployed application - https://israelvarela.github.io/jQuery-Calendar-A
 
 Image of deployed application.
 
-https://user-images.githubusercontent.com/62815477/89134014-f9fe9880-d4e6-11ea-84f6-b335b03425b1.png
+
